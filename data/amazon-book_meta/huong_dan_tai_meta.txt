@@ -1,0 +1,2 @@
+download : meta_book.json.gz
+link: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
